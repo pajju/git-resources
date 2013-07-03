@@ -12,3 +12,5 @@ git-resources
 ### videos:
 
 Must Read Books: Pro Git
+
+#### Dropbox for sync? https://news.ycombinator.com/item?id=5982992
