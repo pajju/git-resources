@@ -1,16 +1,22 @@
 git-resources
 =============
 
-### git resources for fixing your workflows.
+### git resources for fixing your Git workflows.
 
-### Git Video lessons walkthro's - Codeschool
+#### Git Video lessons - Codeschool
 
-### Git Branching Tutorial - https://news.ycombinator.com/item?id=5937994
+#### compiled from your system bookmark folders.
 
-### Git Branching mode - http://nvie.com/posts/a-successful-git-branching-model/
+#### Git Branching Tutorial - https://news.ycombinator.com/item?id=5937994
 
-### videos:
+#### Git Branching mode - http://nvie.com/posts/a-successful-git-branching-model/
+
+#### videos:
 
 Must Read Books: Pro Git
 
-#### Dropbox for sync? https://news.ycombinator.com/item?id=5982992
+#### Dropbox and Git workflows? 
+https://news.ycombinator.com/item?id=5982992
+
+#### Git Hooks in Python:
+https://github.com/Newky/hooked
